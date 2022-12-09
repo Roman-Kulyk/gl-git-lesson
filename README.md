@@ -20,7 +20,7 @@ NTP uses Coordinated Universal Time (UTC) to synchronize computer clock times wi
 - line 9
 - line 10 main
 - line 11 main
-- line 12
+- line 12 main
 - line 13 feature-3
 - line 14 feature-3
 - line 15 feature-3
