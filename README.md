@@ -18,7 +18,7 @@ The following three steps are involved in the NTP synchronization process:
 NTP uses Coordinated Universal Time (UTC) to synchronize computer clock times with extreme precision.
 
 - line 9
-- line 10
+- line 10 main
 - line 11
 - line 12
 - line 13 feature-3
